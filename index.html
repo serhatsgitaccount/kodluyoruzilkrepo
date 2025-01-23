@@ -1,0 +1,15 @@
+<!--
+bu dosya kodluyoruz html ilk odevi içindir
+-->
+
+<h1>Serhat Celik</h1>
+<h3>hakkımda</h3>
+<p>
+    Merhaba ben Serhat. Yazılım alanında kendimi geliştirmek istiyorum. Bu sebeple kodluyoruz eğitimine başladım. Yazılım öğrenmenin bana yavaş yavaş keyif verdiğini söylemek isterim. Bazı hatalarım oluyor ve bazı konuları unutuyorum ama bunun zamanla düzeleceğini biliyorum.
+</p>
+
+<h2>yazılımla yapmak istediklerim</h2>
+<h4>birleşik eğitim alanı</h4>
+<p>
+    İnsanlar için faydalı araçlar yapmanın bu devirde çok zor olduğunu biliyorum çünkü pek çok alternatif var. Bu sebeple aklımda bu alternatifleri birleştirebilecek bir platform oluturmayı düşünüyorum. Bu isteğim yazılımdan el işçiliğine kadar onlarca farlı alanda bilgi edinip üretmektense üretim yapanları ortak alana toplayıp erişilebilirliği arttırır. 
+</p>
